@@ -80,6 +80,23 @@
                     }
                 },
                 {
+                    "source": "C:\\lol\\Gallery\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "159,265",
+                        "endColumns": "63,68",
+                        "endOffsets": "218,329"
+                    },
+                    "to": {
+                        "startLines": "656,657",
+                        "startColumns": "4,4",
+                        "startOffsets": "41665,41729",
+                        "endColumns": "63,68",
+                        "endOffsets": "41724,41793"
+                    }
+                },
+                {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\c9a06a332369690ad82a15ad34c082b2\\transformed\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -135,25 +152,6 @@
                     }
                 },
                 {
-                    "source": "C:\\lol\\RNGallery\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "273"
-                    },
-                    "to": {
-                        "startLines": "823",
-                        "startColumns": "4",
-                        "startOffsets": "59796",
-                        "endLines": "826",
-                        "endColumns": "12",
-                        "endOffsets": "59974"
-                    }
-                },
-                {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\c05df83dbc847297b7ccad2bb18337e0\\transformed\\core-1.7.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,89,90,94,95,96,97,104,114,162,194,231",
@@ -170,6 +168,23 @@
                         "endLines": "55,96,97,181,182,290,291,292,293,294,295,296,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,533,534,535,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,589,590,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,623,659,797,3134,3138,3139,3143,3144,3758,3759,5284,5565,5804,5825,6006,6012",
                         "endColumns": "59,71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24,24",
                         "endOffsets": "3187,5679,5767,11512,11575,18850,18918,18990,19060,19121,19195,19268,33410,33471,33533,33597,33659,33720,33788,33888,33948,34014,34087,34156,34213,34265,34327,34917,34993,35058,35281,35340,35400,35460,35520,35580,35640,35700,35760,35820,35880,35940,35999,36059,36119,36179,36239,36299,36359,36419,36479,36539,36599,36658,36718,36778,36837,36896,36955,37014,37073,37132,38075,38110,38868,38931,38986,39044,39102,39163,39226,39283,39334,39384,39445,39502,39568,39602,39637,39815,41920,57985,210500,210701,210811,211012,211141,253291,253358,322969,332457,342781,343462,348534,348701"
+                    }
+                },
+                {
+                    "source": "C:\\lol\\Gallery\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "51",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "693",
+                        "startColumns": "4",
+                        "startOffsets": "44267",
+                        "endColumns": "51",
+                        "endOffsets": "44314"
                     }
                 },
                 {
@@ -262,23 +277,6 @@
                     }
                 },
                 {
-                    "source": "C:\\lol\\RNGallery\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "159,265",
-                        "endColumns": "63,68",
-                        "endOffsets": "218,329"
-                    },
-                    "to": {
-                        "startLines": "656,657",
-                        "startColumns": "4,4",
-                        "startOffsets": "41665,41729",
-                        "endColumns": "63,68",
-                        "endOffsets": "41724,41793"
-                    }
-                },
-                {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\7ac1297a65d7e60cab9847fc28b2b130\\transformed\\cardview-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -351,20 +349,22 @@
                     }
                 },
                 {
-                    "source": "C:\\lol\\RNGallery\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\lol\\Gallery\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "51",
-                        "endOffsets": "64"
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "273"
                     },
                     "to": {
-                        "startLines": "693",
+                        "startLines": "823",
                         "startColumns": "4",
-                        "startOffsets": "44267",
-                        "endColumns": "51",
-                        "endOffsets": "44314"
+                        "startOffsets": "59796",
+                        "endLines": "826",
+                        "endColumns": "12",
+                        "endOffsets": "59974"
                     }
                 },
                 {
