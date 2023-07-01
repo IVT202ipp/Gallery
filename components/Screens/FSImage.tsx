@@ -36,31 +36,27 @@ export const FSImage = ({ navigation, route }: { navigation: any; route: any }) 
 
     return (
         <View style={styles.container}>
-            <PinchGestureHandler
-          onGestureEvent={onPinchEvent}
-          onHandlerStateChange={onPinchStateChange}
-        >
-          <Animated.Image
-            source={{
-              uri:
-              item.thumbnail,
-            }}
-            style={[
-              styles.image,
-              {
-                transform: [{ scale: scale }],
-              },
-            ]}
-            resizeMode="contain"
-          />
-        </PinchGestureHandler>
-            <View style={styles.bottomBar}>
-                <TouchableOpacity onPress={toggleFavorite} style={styles.favoriteButton}>
-                    <Text style={styles.favoriteButtonText}>
-                        {isFavorite ? '★' : '☆'}
-                    </Text>
-                </TouchableOpacity>
-            </View>     
+          <PinchGestureHandler onGestureEvent={onPinchEvent} onHandlerStateChange={onPinchStateChange}>
+            <Animated.Image
+              source={{
+                uri:
+                item.thumbnail,
+              }}
+              style={[
+                styles.image,
+                {
+                  transform: [{ scale: scale }],
+                },
+              ]}
+              resizeMode="contain"/>
+          </PinchGestureHandler>
+          <View style={styles.bottomBar}>
+            <TouchableOpacity onPress={toggleFavorite} style={styles.favoriteButton}>
+              <Text style={styles.favoriteButtonText}>
+                {isFavorite ? '★' : '☆'}
+              </Text>
+            </TouchableOpacity>
+          </View>     
         </View>
     );
 };

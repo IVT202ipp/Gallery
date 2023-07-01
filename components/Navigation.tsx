@@ -5,6 +5,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Gallery } from './Screens/Gallery';
 import { Favorite } from './Screens/Favorite';
 import { FSImage } from './Screens/FSImage';
+import { Testing } from './Screens/Testing';
 
 const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();
@@ -14,6 +15,7 @@ const BottomTabNavigator = () => {
       <Tab.Navigator>
         <Tab.Screen name="Gallery" component={Gallery} />
         <Tab.Screen name="Favorite" component={Favorite} />
+        <Tab.Screen name="Testing" component={Testing} />
       </Tab.Navigator>
     );
 }
